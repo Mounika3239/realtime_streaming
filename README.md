@@ -11,6 +11,8 @@ This project demonstrates the design and implementation of a **real-time data st
 
 ## 🏗️ Architecture & Workflow
 
+![UI_2](architecture.png "Sample_1")
+
 - **🛠️ Data Generation:**  
   Synthetic customer data created with Python and the `Faker` library inside JupyterLab.
 
